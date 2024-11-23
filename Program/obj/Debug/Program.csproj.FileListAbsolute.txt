@@ -5,6 +5,6 @@ C:\Users\daniil\source\repos\Program\Program\bin\Debug\MyLibrary.exe
 C:\Users\daniil\source\repos\Program\Program\bin\Debug\MyLibrary.pdb
 C:\Users\daniil\source\repos\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
 C:\Users\daniil\source\repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
-C:\Users\daniil\source\repos\Program\Program\obj\Debug\Program.csproj.CopyComplete
 C:\Users\daniil\source\repos\Program\Program\obj\Debug\Program.exe
 C:\Users\daniil\source\repos\Program\Program\obj\Debug\Program.pdb
+C:\Users\daniil\source\repos\Program\Program\obj\Debug\Program.csproj.Up2Date
